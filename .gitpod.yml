@@ -1,0 +1,3 @@
+tasks:
+  - init: yarn install && yarn global add firebase-tools
+    command: yarn run start
